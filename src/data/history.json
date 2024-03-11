@@ -1,0 +1,22 @@
+[
+    {
+        "role": "Rick and Morty",
+        "Technology": "React",
+        "Duration": "2 weeks",
+        "imageSrc": "history/Rick&morty.png"
+    },
+    {
+        "role": "Movies",
+        "Technology": "Node.js",
+        "Duration": "2 weeks",
+        "imageSrc": "history/movies.jpg"
+
+    },
+    {
+        "role": "Weather",
+        "Technology": "React, CSS",
+        "Duration": "2 weeks",
+        "imageSrc": "history/weather.png"
+
+    }
+]
